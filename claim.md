@@ -5,3 +5,5 @@ Inspired by his 13 Nov post (https://x.com/saltorious1/status/212125295488784418
 Why he'd fund it: this is the local-model claim nobody has tested — not which model is best, but whether your own traces make a model measurably better at your own work. It produces a reusable recipe for Harness users, an adapter anyone can re-run, and an honest cost per passing task. 50 held-out tasks are frozen before training, base and tuned are scored by the same script, and a negative result is valid.
 
 Screenshot of the source post attached.
+
+Pitch posted on X, tagging @saltorious1: https://x.com/i_am_ahero/status/2124079622522384554
